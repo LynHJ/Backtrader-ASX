@@ -27,7 +27,7 @@ Step 5. Use that best match to run the same process but applying the different t
 
 Step 6. Plot the results and display how much I can earn if I use that best match. 
 
-![alt text](https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/FMG.AX.png 'title1'=30%x )![alt text](https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/RIO.AX.png 'title2'=30%x)  
+![alt text](https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/FMG.AX.png 'title1' =30%x )![alt text](https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/RIO.AX.png 'title2' =30%x)  
  
 
 
