@@ -41,7 +41,26 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 ## Content:
 ```
 Project  
-
+├── InputData
+│   ├── ANZ.AX.csv
+│   ├── BHP.AX.csv
+│   ├── CBA.AX.csv
+│   ├── FMG.AX.csv
+│   ├── NAB.AX.csv
+│   ├── RIO.AX.csv
+│   └── WBC.AX.csv
+├── OutputData
+│   ├── ANZ.AX.png
+│   ├── BHP.AX.png
+│   ├── CBA.AX.png
+│   ├── FMG.AX.png
+│   ├── NAB.AX.png
+│   ├── RIO.AX.png
+│   └── WBC.AX.png
+├── Testback Mining.ipynb
+├── Testback Bank.ipynb
+├── README.md
+├── requirements.txt
 
 ```
 
