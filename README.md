@@ -1,9 +1,9 @@
-# Testback-ASX
+# Backtrader-ASX
 
 
 ## Background
 
-Backtest is an interesting python tool I found on the internet. I did read some blogs about how to use testback on testing trading strategy. This library contains many indicators and analysis tools which are commonly used in our trading accounts like MACD,SMA, BollingerBands, etc..  
+Backtrader is an interesting python tool I found on the internet. I did read some blogs about how to use testback on testing trading strategy. This library contains many indicators and analysis tools which are commonly used in our trading accounts like MACD,SMA, BollingerBands, etc..  
 
 A report released from the government of Western Australia shows that 47% of their financial year's GDP comes from the mining industry. Therefore, I would analyze the top 3 mining stocks,<b>RIO</b>,<b>FMG</b>,and <b>BHP</b>.  
 
@@ -33,6 +33,7 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 
 
 ## Summary
+
 1. The idea of using 20years-2years to run the strategy is that we encountered a financial crisis in 2008 and we have been through a covid period which hit gobal econimic hard. So if during the this down-award trenth, I still can get positive profit then I reckon my strategy is good to go.  
 
 2.  This process still has some defect.For example, to form up a great strategy is not just using two numbers to produce trading signals, and the earning of target mining companies actually depend on the demands from China,.etc.
@@ -40,7 +41,9 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 
 ## Content:
 ```
-Project  
+Project
+├── Backtrader Mining.ipynb
+├── Backtrader Bank.ipynb  
 ├── InputData
 │   ├── ANZ.AX.csv
 │   ├── BHP.AX.csv
@@ -57,8 +60,6 @@ Project
 │   ├── NAB.AX.png
 │   ├── RIO.AX.png
 │   └── WBC.AX.png
-├── Testback Mining.ipynb
-├── Testback Bank.ipynb
 ├── README.md
 ├── requirements.txt
 
