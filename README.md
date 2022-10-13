@@ -42,8 +42,8 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 ## Content:
 ```
 Project
+├── Backtrader Bank.ipynb
 ├── Backtrader Mining.ipynb
-├── Backtrader Bank.ipynb  
 ├── InputData
 │   ├── ANZ.AX.csv
 │   ├── BHP.AX.csv
@@ -59,6 +59,10 @@ Project
 │   ├── FMG.AX.png
 │   ├── NAB.AX.png
 │   ├── RIO.AX.png
+│   ├── ResultBankROI.csv
+│   ├── ResultMiningROI.csv
+│   ├── TestResult.csv
+│   ├── TestResult.png
 │   └── WBC.AX.png
 ├── README.md
 ├── requirements.txt
