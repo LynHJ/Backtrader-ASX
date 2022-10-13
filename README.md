@@ -27,7 +27,7 @@ Step 5. Use that best match to run the same process but applying the different t
 
 Step 6. Plot the results and display how much I can earn if I use that best match. 
 
-<img src='https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/FMG.AX.png' width= 50% height=55%/><img src='https://github.com/LynHJ/Backtrader-ASX/blob/5b2f82e7bf9a0bfb40402c1a6b73ccd1111db81e/OutputData/NAB.AX.png' width= 50% height=50%/> 
+<img src='https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/FMG.AX.png' width= 50% height=55%/><img src='https://github.com/LynHJ/Backtrader-ASX/blob/5b2f82e7bf9a0bfb40402c1a6b73ccd1111db81e/OutputData/NAB.AX.png' width= 50% height=48%/> 
  
 
 
