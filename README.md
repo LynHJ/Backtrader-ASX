@@ -39,7 +39,7 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 2.  This process still has some defect.For example, to form up a great strategy is not just using two numbers to produce trading signals, and the earnings of target mining companies actually depend on the demands from China,.etc.  
 
 3. I have testes seven stocks. Here is the result and I am satified with that.  
-<img src='https://github.com/LynHJ/Backtrader-ASX/blob/5b2f82e7bf9a0bfb40402c1a6b73ccd1111db81e/OutputData/TestResult.png' width= 80% height=80%/> 
+<img src='https://github.com/LynHJ/Backtrader-ASX/blob/5b2f82e7bf9a0bfb40402c1a6b73ccd1111db81e/OutputData/TestResult.png' width= 80% height=80% align=center/> 
 
 
 ## Content:
