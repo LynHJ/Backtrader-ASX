@@ -34,7 +34,7 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 
 ## Summary
 
-1. A project sources datasets from yahoo financial database and performs a process of python library- Backtrader. The idea of using 20years-2years to run the strategy is that we encountered a financial crisis in 2008 and we have been through a covid period which hit global economic hard. So, if during this down-award trend, I still can have a positive profit then I reckon my strategy is good to go.  
+1. A project sources datasets from yahoo financial database and performs a process of python library- Backtrader. The idea of using <b>20years</b>+<b>2years</b> to run the strategy is that we encountered a financial crisis in 2008 and we have been through a covid period which hit global economic hard. So, if during this down-award trend, I still can have a positive profit then I reckon my strategy is good to go.  
 
 2.  This process still has some defect.For example, to form up a great strategy is not just using two numbers to produce trading signals, and the earnings of target mining companies actually depend on the demands from China,.etc.  
 
