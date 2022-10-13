@@ -27,7 +27,7 @@ Step 5. Use that best match to run the same process but applying the different t
 
 Step 6. Plot the results and display how much I can earn if I use that best match. 
 
-<img src='https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/FMG.AX.png' width= 50% height=50%/><img src='https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/RIO.AX.png' width= 50% height=50%/> 
+<img src='https://github.com/LynHJ/ProjectTestback/blob/9fdee4201fd7f0a0f720a55ec550851ce5a1885b/OutputData/FMG.AX.png' width= 50% height=50%/><img src='https://github.com/LynHJ/Backtrader-ASX/blob/5b2f82e7bf9a0bfb40402c1a6b73ccd1111db81e/OutputData/NAB.AX.png' width= 50% height=50%/> 
  
 
 
@@ -36,7 +36,10 @@ Step 6. Plot the results and display how much I can earn if I use that best matc
 
 1. A project sources datasets from yahoo financial database and performs a process of python library- Backtrader. The idea of using 20years-2years to run the strategy is that we encountered a financial crisis in 2008 and we have been through a covid period which hit global economic hard. So, if during this down-award trend, I still can have a positive profit then I reckon my strategy is good to go.  
 
-2.  This process still has some defect.For example, to form up a great strategy is not just using two numbers to produce trading signals, and the earnings of target mining companies actually depend on the demands from China,.etc.
+2.  This process still has some defect.For example, to form up a great strategy is not just using two numbers to produce trading signals, and the earnings of target mining companies actually depend on the demands from China,.etc.  
+
+3. I have testes seven stocks. Here is the result and I am satified with that.  
+<img src='https://github.com/LynHJ/Backtrader-ASX/blob/5b2f82e7bf9a0bfb40402c1a6b73ccd1111db81e/OutputData/TestResult.png' width= 80% height=80%/><img
 
 
 ## Content:
