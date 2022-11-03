@@ -1,5 +1,12 @@
 # Backtrader-ASX
 
+![](https://img.shields.io/badge/backtrader-1.9.76.123-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/matplotlib-3.2.2-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/numpy-1.21.5-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pandas-1.3.5-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pandas_datareader-0.10.0-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/yfinance-0.1.74-informational?style=plastic&logo=appveyor)
+
 
 ## Background
 
